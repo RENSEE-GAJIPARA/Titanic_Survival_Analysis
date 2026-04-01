@@ -192,6 +192,16 @@ The dashboard will be saved as `Titanic_Dashboard.png` in the same directory.
 
 ---
 
+
+📌 **Data Analyst & Python Developer** — passionate about turning raw data into meaningful insights through clean code and compelling visualizations.
+
+📌 **Developed this Titanic EDA Project** using Python, Pandas, Matplotlib, and Seaborn — covering the full pipeline from data cleaning and feature engineering to insight extraction and a professional 5-panel visual dashboard.
+
+📌 **Focused on** structured EDA workflows, modular script design, and professional data storytelling for real-world datasets.
+
+---
+
+
 ## 👨‍💻 Author
 
 <div align="center">
@@ -201,14 +211,6 @@ The dashboard will be saved as `Titanic_Dashboard.png` in the same directory.
 [![GitHub](https://img.shields.io/badge/GitHub-RENSEE--GAJIPARA-181717?style=for-the-badge&logo=github)](https://github.com/RENSEE-GAJIPARA)
 
 </div>
-
----
-
-📌 **Data Analyst & Python Developer** — passionate about turning raw data into meaningful insights through clean code and compelling visualizations.
-
-📌 **Developed this Titanic EDA Project** using Python, Pandas, Matplotlib, and Seaborn — covering the full pipeline from data cleaning and feature engineering to insight extraction and a professional 5-panel visual dashboard.
-
-📌 **Focused on** structured EDA workflows, modular script design, and professional data storytelling for real-world datasets.
 
 ---
 
